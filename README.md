@@ -4,7 +4,7 @@ Para convertir las imagenes a texto, se debe crear un folder donde irá alojada 
 ## NO OLVIDAR
 Renombrar el nombre de la caprte de las imagenes
 ### Para la libreria:
-'''
+```
 -m pip install easyocr
-'''
+```
 
